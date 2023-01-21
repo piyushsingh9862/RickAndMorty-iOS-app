@@ -17,7 +17,6 @@ final class RMCharactersViewController: UIViewController {
         view.backgroundColor = .systemBackground
         title = "Characters"
 
-        // Do any additional setup after loading the view.
     }
     
 
